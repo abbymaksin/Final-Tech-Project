@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../GitHUb/Final-Tech-Project"
+		},
+		{
+			"name": "ESP32-Project",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
